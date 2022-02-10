@@ -1,0 +1,17 @@
+.form-controls {
+  text-align: center;
+  border: 2px solid black;
+  padding: 15px;
+  display: flex;
+  margin: 20px;
+}
+
+.form-controls input {
+  display: flex;
+  margin: 5px;
+  margin-left: 20%;
+}
+
+.form-controls label {
+  float: left;
+}
